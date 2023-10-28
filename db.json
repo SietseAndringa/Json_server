@@ -1,7 +1,7 @@
 {
   "todos": [
     {
-      "description": "Hello", 
+      "description": "Add a new task by typing it in the field and press add. Mark task as complete by pressing the checkbox. Delete the task by pressing the recycle bin", 
       "done": false, 
       "_id": 1 
     },
