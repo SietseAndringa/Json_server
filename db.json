@@ -1,19 +1,24 @@
 {
   "todos": [
     {
-      "description": "Add a new task by typing it in the field and press add. Mark task as complete by pressing the checkbox. Delete the task by pressing the recycle bin", 
+      "description": "Add a new task by typing it in the field and press add.", 
       "done": false, 
       "_id": 1 
     },
     {
-      "description": "This is my second task", 
+      "description": "Mark task as complete by pressing the checkbox.", 
       "done": false, 
       "_id": 2 
     },
     {
-      "description": "I should have done this ages ago...", 
+      "description": "Delete a task by pressing the trash can icon", 
       "done": false, 
       "_id": 3 
+    },
+    {
+      "description": "Beware! All tasks are lost on page refresh", 
+      "done": false, 
+      "_id": 4 
     }
   ]
 }
